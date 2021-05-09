@@ -1,5 +1,3 @@
-# Clin01.github.io
-
 ## Links
 
 ### [Classic MC](https://clin01.github.io/classicmc/)
